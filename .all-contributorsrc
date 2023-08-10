@@ -296,6 +296,16 @@
         "code",
         "review"
       ]
+    },
+    {
+      "login": "Decoder-25",
+      "name": "Disha Biswas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88584780?v=4",
+      "profile": "https://github.com/Decoder-25",
+      "contributions": [
+        "a11y",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
